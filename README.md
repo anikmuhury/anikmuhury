@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Anik Muhury! 👋
+# I'm Anik Muhury! 🔭
 
 ## About Me
 I'm a PhD student at University of Tennessee, Knoxville with a keen interest in Robotics, Control, and Model order reduction. 
